@@ -1,2 +1,2 @@
 mysql
-hashicrop/consul
+hashicorp/consul
