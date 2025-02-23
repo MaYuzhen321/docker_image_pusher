@@ -1,1 +1,1 @@
-mysql：latest
+mysql
